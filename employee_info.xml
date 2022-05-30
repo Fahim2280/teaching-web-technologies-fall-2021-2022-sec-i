@@ -1,0 +1,38 @@
+<infos>
+	<info>
+		<name>jone doe</name>
+		<address>
+			<flat></<flat>
+			<house>h#38</house>
+			<road>r#38</road>
+			<tana>bannai</taha>
+			<city>dhaka</city>
+		</address>
+		<department>sale</department>
+		<salary>$20000</salary>
+	</info>
+<info>
+		<name>mark zuckerbeg</name>
+		<address>
+			<flat>flt#a/2</<flat>
+			<house></house>
+			<road></road>
+			<tana>mirpur</taha>
+			<city>dhaka</city>
+		</address>
+		<department>accounts</department>
+		<salary>$12000</salary>
+	</info>
+<info>
+		<name>ala vosuy</name>
+		<address>
+                  <flat></<flat>
+			<house>h#38</house>
+			<road>r#3</road>
+			<tana>motijiale</taha>
+			<city>dhaka</city>
+		</address>
+		<department>human resoure</department>
+		<salary>$3000</salary>
+	</info>
+</infos>
